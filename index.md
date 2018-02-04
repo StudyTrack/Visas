@@ -7,7 +7,7 @@
 При сдаче в консульство в Москве нет сервисного сбора ВЦ.  
 Школьники, студенты со свежей справкой и сопровождающий освобождаются от визового сбора.
 ### Визовая анкета
-[visa-application-form.pdf](http://www.vfsglobal.com/Malta/Russia/Russian/pdf/visa-application-form.pdf) - на сайте только pdf, заполняем программой Infix Pro. Раньше это делали в [файле Word](doc/MaltaApplicationForm.doc). 
+[visa-application-form.pdf](http://www.vfsglobal.com/Malta/Russia/Russian/pdf/visa-application-form.pdf) - на сайте только pdf, заполняем программой Infix Pro. Раньше это делали в [файле Word(скачать)](doc/MaltaApplicationForm.doc). 
 Часть полей заполняем по данным из загранпаспорта, приглашения из школы, билетов. Данные загранпаспорта получаем раньше для авиабилета и запроса письма из школы.
 
 Запрашиваем *дополнительно* для анкеты или можно дописать ручкой:  
