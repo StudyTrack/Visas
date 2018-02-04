@@ -3,7 +3,7 @@
 [Информация по учебной визе на сайте визового центра](http://www.vfsglobal.com/Malta/Russia/Russian/Study-short-term.html).  
 [Адреса и время работы ВЦ](http://www.vfsglobal.com/Malta/Russia/Russian/contact-us.html).  
 В [Казани](http://www.vfsglobal.com/Malta/Russia/Russian/contact-us.html#6) вход в ВЦ посередине здания по ул.Московская, хотя адрес ул.Парижской Комунны.  
-В ВЦ **заплатить** [2600 руб визового и 1850 руб сервисного сбора](http://www.vfsglobal.com/Malta/Russia/Russian/Study-short-term.html#tourist_visaFees). На квитанции об оплате подчеркнут номер, который нужно вводить для [проверки готовности](https://www.vfsvisaservicesrussia.com/Global-Passporttracking/Track/Index?q=shSA0YnE4pLF9Xzwon/x/EpJs2NIweLgQQ8d+rbZm2HanwHLl5q7EFC1SEvThrz+7tqYpENLJ+02HqEi24yulw==) паспорта с визой. Паспорт может получить другой человек по простой доверенности.  
+В ВЦ **заплатить** [2600 руб визового и 1850 руб сервисного сбора](http://www.vfsglobal.com/Malta/Russia/Russian/Study-short-term.html#tourist_visaFees). На квитанции об оплате подчеркнут номер, который нужно вводить вместе с датой рождения для [**проверки готовности паспорта** с визой](https://www.vfsvisaservicesrussia.com/Global-Passporttracking/Track/Index?q=shSA0YnE4pLF9Xzwon/x/EpJs2NIweLgQQ8d+rbZm2HanwHLl5q7EFC1SEvThrz+7tqYpENLJ+02HqEi24yulw==). Паспорт может получить другой человек по простой доверенности.  
 При сдаче в консульство в Москве нет сервисного сбора ВЦ.  
 Школьники, студенты со свежей справкой и сопровождающий освобождаются от визового сбора.
 ### Визовая анкета
